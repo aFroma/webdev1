@@ -1,6 +1,6 @@
 			body{   
 margin:0;    padding: 0;
-				background-image: url("bg.png");
+				background-image: url("../images/bg.png");
 				font-family: "sans-serif";
 			}
 			
@@ -22,7 +22,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 			}
 
 			.header {
-				background: url("headerrr.png") fixed center;
+				background: url("../images/headerrr.png") fixed center;
 				height: 135px;
 				font-weight:bold;color:#FFF0FF; text-shadow: 2px 2px black;letter-spacing:1pt;word-spacing:2pt;font-size:50px;text-align:left;font-family:arial, helvetica, sans-serif;line-height:1;
 				text-align: center;
